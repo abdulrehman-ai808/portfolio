@@ -1,0 +1,18 @@
+[
+  {
+    "id": "6fb60ac3",
+    "name": "Recruiter / Visitor",
+    "email": "recruiter@techcorp.com",
+    "subject": "Job Opportunity: AI Engineer",
+    "message": "Hi Abdul, impressed by your Graph Neural Networks certification and Jain University background. We'd love to interview you!",
+    "timestamp": "2026-11-15T17:49:48.208165Z"
+  },
+  {
+    "id": "init-welcome-msg",
+    "name": "Portfolio System",
+    "email": "system@abdulrehman.dev",
+    "subject": "Welcome to your new portfolio!",
+    "message": "Hi Abdul, your contact form is live and connected. Messages submitted by visitors will appear here automatically.",
+    "timestamp": "2026-11-15T23:15:00.000Z"
+  }
+]
